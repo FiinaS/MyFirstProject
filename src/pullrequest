@@ -14,4 +14,5 @@ so On bottom right, I should see the new branch name.
 
 6- we need create a "Pull request"
 7. Some needs to approve my pull request so I can merge my changes.
+
 8. As soon as we merge our changes, it will be in the main (master) branch.
